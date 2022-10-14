@@ -10,10 +10,11 @@
 		<module>domain</module>
 		<module>infrastructure</module>
 	</modules>
+
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.3.2.RELEASE</version>
+		<version>2.7.4</version>
 		<relativePath/>
 	</parent>
 	<groupId>dev.carlosandrade</groupId>
@@ -38,7 +39,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-openfeign</artifactId>
-			<version>2.1.1.RELEASE</version>
+			<version>3.1.4</version>
 		</dependency>
 		<dependency>
 			<groupId>org.postgresql</groupId>
