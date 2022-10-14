@@ -1,2 +1,6 @@
 # clean-arch-java
-Estudos de clean architecture usando java
+Caso de uso do clean archtecture com java
+
+## Requisitos
+
+- Java Jdk 17
